@@ -106,6 +106,7 @@ This list answers that. Each vertical gives you the **mature, mostly official** 
 | Jira | [Atlassian](https://www.atlassian.com/) | `official` | Project management, issues, sprints |
 | Google Analytics 4 | [Google](https://developers.google.com/analytics) | `community` | GA4 reporting and analytics data |
 | Google Ads | [Google](https://developers.google.com/google-ads/api) | `community` | Campaign management and performance data |
+| Autoposting | [Autoposting-ai/autoposting-mcp](https://github.com/Autoposting-ai/autoposting-mcp) | `official` | Schedule, generate and publish social posts to X, LinkedIn, Instagram, Threads and YouTube (`app.autoposting.ai/mcp`) |
 
 ## ☁️ Cloud & Infra
 
