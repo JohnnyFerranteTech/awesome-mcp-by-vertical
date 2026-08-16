@@ -67,6 +67,7 @@ This list answers that. Each vertical gives you the **mature, mostly official** 
 | Git | [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers/tree/main/src/git) | `official` | Read, search and manipulate Git repositories |
 | GitHub | [github/github-mcp-server](https://github.com/github/github-mcp-server) | `official` | Interact with the GitHub API |
 | Sentry | [getsentry/sentry-mcp](https://github.com/getsentry/sentry-mcp) | `official` | Error tracking, issues, events (`mcp.sentry.dev`) |
+| Agent QA | [vostride/agent-qa](https://github.com/vostride/agent-qa) | `official` | Natural-language web/mobile testing, persistent test memory and self-healing flows |
 | Kubernetes | [containers/kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) | `community` | Interact with Kubernetes / OpenShift clusters |
 | DevOps toolkit | [rohitg00/awesome-devops-mcp-servers](https://github.com/rohitg00/awesome-devops-mcp-servers) | `community` | Curated DevOps-specific MCP list |
 
