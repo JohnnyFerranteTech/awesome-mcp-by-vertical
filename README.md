@@ -101,6 +101,7 @@ This list answers that. Each vertical gives you the **mature, mostly official** 
 
 | Server | Source | | What it does |
 |---|---|---|---|
+| BulkPublish | [BulkPublish MCP](https://app.bulkpublish.com/docs) | `community` | Social content planning, review, scheduling, and publishing through the BulkPublish API and reusable AI-agent skills ([source](https://github.com/azeemkafridi/bulkpublish-api)) |
 | HubSpot | [HubSpot](https://developers.hubspot.com/) | `official` | CRM read/write: contacts, deals, tickets, analytics |
 | Salesforce | [Salesforce](https://www.salesforce.com/) | `official` | Create/update/delete CRM records |
 | Jira | [Atlassian](https://www.atlassian.com/) | `official` | Project management, issues, sprints |
