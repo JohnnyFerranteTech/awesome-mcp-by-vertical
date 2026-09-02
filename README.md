@@ -74,6 +74,7 @@ This list answers that. Each vertical gives you the **mature, mostly official** 
 
 | Server | Source | | What it does |
 |---|---|---|---|
+| Process Street | [process-street/process-street-mcp](https://github.com/process-street/process-street-mcp) | `official` | Connect workflows, tasks, runs, data sets, and operational records to MCP-compatible AI agents. |
 | Notion | [makenotion/notion-mcp-server](https://github.com/makenotion/notion-mcp-server) | `official` | Docs, databases, blocks, comments, files |
 | Slack | [Anthropic plugins](https://github.com/anthropics/claude-plugins-official) | `official` | Post, read, and manage Slack workspaces |
 | Linear | [linear.app](https://linear.app/docs/mcp) | `official` | Issues, projects, milestones (`mcp.linear.app`) |
