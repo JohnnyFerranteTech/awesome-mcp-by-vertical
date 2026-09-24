@@ -88,6 +88,9 @@ This list answers that. Each vertical gives you the **mature, mostly official** 
 | Fetch | [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch) | `official` | Fetch a URL and convert it to Markdown |
 | Tavily | [tavily.com](https://tavily.com/) | `official` | Search API optimized for research + citations |
 | Exa | [exa.ai](https://exa.ai/) | `official` | Semantic, AI-first web search |
+| Statsnet | [usenetstate/statsnet-mcp](https://github.com/usenetstate/statsnet-mcp) | `community` | Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp` |
+| Statsnet | [usenetstate/statsnet-mcp](https://github.com/usenetstate/statsnet-mcp) | `community` | Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp` |
+
 
 ## 🛒 Retail & E-commerce
 
