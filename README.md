@@ -101,6 +101,7 @@ This list answers that. Each vertical gives you the **mature, mostly official** 
 
 | Server | Source | | What it does |
 |---|---|---|---|
+| FirstSales MCP | [FirstSales](https://developer.firstsales.io/agents/mcp-server) | `official` | Read CRM contacts, deals, lists and workflows; create contacts via hosted OAuth MCP (eligible paid plan) |
 | HubSpot | [HubSpot](https://developers.hubspot.com/) | `official` | CRM read/write: contacts, deals, tickets, analytics |
 | Salesforce | [Salesforce](https://www.salesforce.com/) | `official` | Create/update/delete CRM records |
 | Jira | [Atlassian](https://www.atlassian.com/) | `official` | Project management, issues, sprints |
