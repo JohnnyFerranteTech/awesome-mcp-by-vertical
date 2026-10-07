@@ -96,6 +96,7 @@ This list answers that. Each vertical gives you the **mature, mostly official** 
 | Shopify Storefront | [Shopify](https://shopify.dev/docs/api/storefront) | `official` | GraphQL Storefront: products, cart, search, policies |
 | Shopify Admin | [GeLi2001/shopify-mcp](https://github.com/GeLi2001/shopify-mcp) | `community` | Full Shopify Admin API access |
 | Shopify Dev | [Shopify](https://shopify.dev/) | `official` | Shopify API docs and dev resources |
+| TvojeLajky MCP | [TvojeLajky docs](https://tvojelajky.cz/developers) | `official` | Czech/CZK Instagram and TikTok service catalogue, quotes and orders; paid credit purchases require customer OAuth and a spending budget |
 
 ## 📈 Marketing & CRM
 
