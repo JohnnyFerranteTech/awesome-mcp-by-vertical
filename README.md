@@ -78,6 +78,7 @@ This list answers that. Each vertical gives you the **mature, mostly official** 
 | Slack | [Anthropic plugins](https://github.com/anthropics/claude-plugins-official) | `official` | Post, read, and manage Slack workspaces |
 | Linear | [linear.app](https://linear.app/docs/mcp) | `official` | Issues, projects, milestones (`mcp.linear.app`) |
 | Google Workspace | [Google](https://developers.google.com/workspace) | `official` | Gmail, Calendar, Drive, Docs in one server |
+| Tale | [tale-project/tale](https://github.com/tale-project/tale) | `official` | Knowledge and versioned automations over authenticated HTTP on your Tale deployment |
 
 ## 🔎 Search & Web
 
