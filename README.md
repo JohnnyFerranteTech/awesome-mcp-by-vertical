@@ -43,6 +43,7 @@ This list answers that. Each vertical gives you the **mature, mostly official** 
 
 | Server | Source | | What it does |
 |---|---|---|---|
+| Agent Payment Node | [nuanu-ai/agent-payment-node](https://github.com/nuanu-ai/agent-payment-node) | `official` | Local macOS CLI and stdio MCP payments with foreground owner approval for signing |
 | Stripe | [stripe/agent-toolkit](https://github.com/stripe/agent-toolkit) | `official` | Payments, payment links, customers, products (`mcp.stripe.com`) |
 | PayPal | [paypal.ai MCP](https://www.paypal.ai/) | `official` | Create invoices, manage and complete payments |
 | Plaid | [plaid.com](https://plaid.com/) | `official` | Connect bank accounts, fetch transactions and balances |
