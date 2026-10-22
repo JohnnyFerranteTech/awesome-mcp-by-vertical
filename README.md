@@ -68,6 +68,7 @@ This list answers that. Each vertical gives you the **mature, mostly official** 
 | GitHub | [github/github-mcp-server](https://github.com/github/github-mcp-server) | `official` | Interact with the GitHub API |
 | Sentry | [getsentry/sentry-mcp](https://github.com/getsentry/sentry-mcp) | `official` | Error tracking, issues, events (`mcp.sentry.dev`) |
 | Kubernetes | [containers/kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server) | `community` | Interact with Kubernetes / OpenShift clusters |
+| API.market | [API.market MCP](https://api.market/mcp) | `official` | Discover and call marketplace APIs through a [hosted gateway](https://api.market/api/mcp/gateway); OAuth or API key, with API-specific free and paid plans |
 | DevOps toolkit | [rohitg00/awesome-devops-mcp-servers](https://github.com/rohitg00/awesome-devops-mcp-servers) | `community` | Curated DevOps-specific MCP list |
 
 ## 💬 Communication & Productivity

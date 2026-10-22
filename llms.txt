@@ -9,7 +9,7 @@
 ## Verticals
 - Fintech & Payments: Stripe, PayPal, Plaid, QuickBooks
 - Data & Databases: Postgres, MongoDB, Supabase, MySQL, ClickHouse
-- Dev & DevOps: Git, GitHub, Sentry, Kubernetes
+- Dev & DevOps: Git, GitHub, Sentry, Kubernetes, API.market
 - Communication & Productivity: Notion, Slack, Linear, Google Workspace
 - Search & Web: Brave Search, Playwright, Fetch, Tavily, Exa
 - Retail & E-commerce: Shopify (Storefront / Admin / Dev)

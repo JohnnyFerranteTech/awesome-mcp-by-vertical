@@ -29,7 +29,7 @@ Ver la [versión en inglés](../README.md) para las tablas completas. Cubre:
 
 - 💳 **Fintech y Pagos** — Stripe, PayPal, Plaid, QuickBooks
 - 🗄️ **Datos y Bases de datos** — Postgres, MongoDB, Supabase, MySQL, ClickHouse
-- 🛠️ **Dev y DevOps** — Git, GitHub, Sentry, Kubernetes
+- 🛠️ **Dev y DevOps** — Git, GitHub, Sentry, Kubernetes, API.market
 - 💬 **Comunicación y Productividad** — Notion, Slack, Linear, Google Workspace
 - 🔎 **Búsqueda y Web** — Brave Search, Playwright, Fetch, Tavily, Exa
 - 🛒 **Retail y E-commerce** — Shopify (Storefront / Admin / Dev)
