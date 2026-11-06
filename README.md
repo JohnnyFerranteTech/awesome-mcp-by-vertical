@@ -115,6 +115,7 @@ This list answers that. Each vertical gives you the **mature, mostly official** 
 | Cloudflare | [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) | `official` | Workers, DNS, Radar, Observability, Security |
 | Azure | [microsoft/mcp](https://github.com/microsoft/mcp) | `official` | Manage Azure resources |
 | Vercel | [vercel.com](https://vercel.com/docs/mcp) | `official` | Deploy and manage Vercel / Next.js projects |
+| DC Hub | [azmartone67/dchub-mcp-server](https://github.com/azmartone67/dchub-mcp-server) | `community` | Live data-center site selection layer; Data Center Power Index (DCPI) across 300+ markets (`https://dchub.cloud/mcp`) |
 
 ---
 
