@@ -44,6 +44,7 @@ This list answers that. Each vertical gives you the **mature, mostly official** 
 | Server | Source | | What it does |
 |---|---|---|---|
 | Stripe | [stripe/agent-toolkit](https://github.com/stripe/agent-toolkit) | `official` | Payments, payment links, customers, products (`mcp.stripe.com`) |
+| FlowFeed | [flowfeed.cc](https://flowfeed.cc/) | `official` | Real-time macro/forex/crypto news and economic calendar for agents (`mcp.flowfeed.cc/mcp`) |
 | PayPal | [paypal.ai MCP](https://www.paypal.ai/) | `official` | Create invoices, manage and complete payments |
 | Plaid | [plaid.com](https://plaid.com/) | `official` | Connect bank accounts, fetch transactions and balances |
 | QuickBooks | [Intuit](https://developer.intuit.com/) | `official` | Invoicing, bookkeeping, financial reports |
