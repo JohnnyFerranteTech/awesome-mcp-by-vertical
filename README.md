@@ -78,6 +78,7 @@ This list answers that. Each vertical gives you the **mature, mostly official** 
 | Slack | [Anthropic plugins](https://github.com/anthropics/claude-plugins-official) | `official` | Post, read, and manage Slack workspaces |
 | Linear | [linear.app](https://linear.app/docs/mcp) | `official` | Issues, projects, milestones (`mcp.linear.app`) |
 | Google Workspace | [Google](https://developers.google.com/workspace) | `official` | Gmail, Calendar, Drive, Docs in one server |
+| Dash | [dash-pup/dash-mcp](https://github.com/dash-pup/dash-mcp) | `official` | Connect AI clients to Dash workspace tools, skills, scheduled tasks, goals, and connected apps (hosted; paid workspace required) |
 
 ## 🔎 Search & Web
 
